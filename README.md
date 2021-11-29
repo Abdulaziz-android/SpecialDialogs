@@ -99,6 +99,5 @@ val bottomSheetDialog = ColorBottomSheetDialog()
             }
 
         })
-        bottomSheetDialog.show(supportFragmentManager, "color dialog")
-
+bottomSheetDialog.show(supportFragmentManager, "color dialog")
 ```

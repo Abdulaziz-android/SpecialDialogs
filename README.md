@@ -1,6 +1,6 @@
 # SpecialDialogs
 
-<a herf="https://im.ezgif.com/tmp/ezgif-1-f89aac31ac0d.gif" title="dialogs" /></a>
+![mydialoggif](https://user-images.githubusercontent.com/66155702/143823240-0f0ef623-3e5b-49e0-bbaf-8325a1b0e15a.gif)
 
 How to
 To get a Git project into your build:
@@ -22,6 +22,6 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.Abdulaziz-android:SpecialDialogs:Tag'
+	        implementation 'com.github.Abdulaziz-android:SpecialDialogs:1.0'
 	}
 Share this release

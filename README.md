@@ -1,6 +1,6 @@
 # SpecialDialogs
 
-https://im.ezgif.com/tmp/ezgif-1-f89aac31ac0d.gif
+<a herf="https://im.ezgif.com/tmp/ezgif-1-f89aac31ac0d.gif" title="dialogs" /></a>
 
 How to
 To get a Git project into your build:

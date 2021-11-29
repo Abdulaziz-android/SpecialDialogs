@@ -1,0 +1,3 @@
+rootProject.name = "Special Dialogs"
+include ':app'
+include ':special-dialogs'

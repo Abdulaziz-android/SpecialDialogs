@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Special Dialogs</string>
+
+    <string name="basic_dialog_title">Use Google\'s Location Services?</string>
+    <string name="basic_dialog_message">Let Google help apps determine location. This means sending anonymous location data to Google, even when no apps are running.</string>
+    <string name="basic_dialog_negative">disagree</string>
+    <string name="basic_dialog_positive">agree</string>
+</resources>
